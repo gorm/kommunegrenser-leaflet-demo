@@ -1,5 +1,7 @@
 # Demo kommunegrenser 
 
+http://gorm.github.io/kommunegrenser-leaflet-demo/
+
 Demo (liten) på bruk av leaflet mapping API med norske kommunegrenser hentet fra kartverkets N5000 illustrasjonskart http://www.statkart.no/Kart/Kartdata/Vektorkart/N5000/
 
 # Filene
